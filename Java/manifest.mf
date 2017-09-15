@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: it.unipa.community.davideproietto.prg.java
+OpenIDE-Module-Localizing-Bundle: it/unipa/community/davideproietto/prg/java/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
